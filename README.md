@@ -37,12 +37,12 @@ This is Adeep Hande.
 - 🌱 I’m currently pursuing my B.Tech Degree (Computer Science Engineering) at INDIAN INSTITUTE OF INFORMATION TECHNOLOGY, TIRUCHIRAPPALLI, 
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: 
-    - <a href="mailto:adeephande1000@gmail.com"><img width=18px height=18px src="icons/mail.png" alt="E-mail"> : adeephande1000@gmail.com </a> 
+    - <a href="mailto:adeephande1000@gmail.com"><img width=18px height=18px src="logo/mail.png" alt="E-mail"> : adeephande1000@gmail.com </a> 
 - 💬 Ping me on 
-    - <a href="https://www.linkedin.com/in/adeep-hande-74922216b/"><img width=18px height=18px src="icons/linkedin.png" alt="LinkedIn"> : Adeep Hande</a>
+    - <a href="https://www.linkedin.com/in/adeep-hande-74922216b/"><img width=18px height=18px src="logo/linkedin.png" alt="LinkedIn"> : Adeep Hande</a>
 
 - ⚡ Find my publications on Google Scholar
-    - <a href="https://scholar.google.com/citations?user=XvfdrGsAAAAJ&hl=en"><img width=18px height=18px src="icons/mail.png" alt="E-mail"> : Adeep Hande </a> 
+    - <a href="https://scholar.google.com/citations?user=XvfdrGsAAAAJ&hl=en"><img width=18px height=18px src="logo/mail.png" alt="Google Scholar"> : Adeep Hande </a> 
 <div align = "left">
 <img src="https://img.shields.io/github/followers/adeepH?label=Followers&style=social" alt= "GitHub Followers">
 <img src="https://img.shields.io/github/stars/adeepH?affiliations=OWNER%2CCOLLABORATOR&style=social" alt = "GitHub User's stars"></br>
