@@ -41,8 +41,8 @@ This is Adeep Hande.
 - 💬 Ping me on 
     - <a href="https://www.linkedin.com/in/adeep-hande-74922216b/"><img width=18px height=18px src="logo/linkedin.png" alt="LinkedIn"> : Adeep Hande</a>
 
-- ⚡ Find my publications on Google Scholar
-    - <a href="https://scholar.google.com/citations?user=XvfdrGsAAAAJ&hl=en"><img width=18px height=18px src="logo/scholar_logo_64dp.png" alt="Google Scholar"> : Adeep Hande </a> 
+- publications
+    - <a href="https://www.aclweb.org/anthology/2020.peoples-1.6/"><img width=18px height=18px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : KanCMD: Kannada CodeMixed Dataset for Sentiment Analysis and Offensive Language Detection </a> 
 <div align = "left">
 <img src="https://img.shields.io/github/followers/adeepH?label=Followers&style=social" alt= "GitHub Followers">
 <img src="https://img.shields.io/github/stars/adeepH?affiliations=OWNER%2CCOLLABORATOR&style=social" alt = "GitHub User's stars"></br>
