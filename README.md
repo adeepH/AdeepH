@@ -41,8 +41,13 @@ This is Adeep Hande.
 - 💬 Ping me on 
     - <a href="https://www.linkedin.com/in/adeep-hande-74922216b/"><img width=18px height=18px src="logo/linkedin.png" alt="LinkedIn"> : Adeep Hande</a>
 
-- publications
-    - <a href="https://www.aclweb.org/anthology/2020.peoples-1.6/"><img width=30px height=30px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : KanCMD: Kannada CodeMixed Dataset for Sentiment Analysis and Offensive Language Detection </a> 
+- Publications
+    - <a href="https://www.aclweb.org/anthology/2020.peoples-1.6/"><img width=100px height=24px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : KanCMD: Kannada CodeMixed Dataset for Sentiment Analysis and Offensive Language Detection </a> 
+    - <a href="https://ieeexplore.ieee.org/document/9418446"><img width=100px height=24px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : Evaluating Pretrained Transformer-based Models for COVID-19 Fake News Detection </a> 
+    - <a href="https://www.aclweb.org/anthology/2021.ltedi-1.13/"><img width=100px height=24px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : Hope Speech Detection: There is always hope in Transformers </a> 
+    - <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.25/"><img width=100px height=24px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : KTransfer Learning for Offensive Language Detection in Dravidian Languages </a> 
+    - <a href="https://www.aclweb.org/anthology/2021.dravidianlangtech-1.24/"><img width=100px height=24px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : Tamil Troll Meme Classification: You need to Pay more Attention </a> 
+    - <a href="https://link.springer.com/chapter/10.1007\%2F978-3-030-75015-2\_9"><img width=100px height=24px src="logo/scholar_logo_64dp.png" alt="ACL Anthology"> : Domain Identification of Scientific Articles using Transfer Learning and Ensembles </a> 
 <div align = "left">
 <img src="https://img.shields.io/github/followers/adeepH?label=Followers&style=social" alt= "GitHub Followers">
 <img src="https://img.shields.io/github/stars/adeepH?affiliations=OWNER%2CCOLLABORATOR&style=social" alt = "GitHub User's stars"></br>
